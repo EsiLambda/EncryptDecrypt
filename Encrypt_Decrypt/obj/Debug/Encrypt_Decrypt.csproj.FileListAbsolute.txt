@@ -1,0 +1,9 @@
+c:\users\ehsan\documents\visual studio 2017\Projects\Encrypt_Decrypt\Encrypt_Decrypt\bin\Debug\Encrypt_Decrypt.exe.config
+c:\users\ehsan\documents\visual studio 2017\Projects\Encrypt_Decrypt\Encrypt_Decrypt\bin\Debug\Encrypt_Decrypt.exe
+c:\users\ehsan\documents\visual studio 2017\Projects\Encrypt_Decrypt\Encrypt_Decrypt\bin\Debug\Encrypt_Decrypt.pdb
+c:\users\ehsan\documents\visual studio 2017\Projects\Encrypt_Decrypt\Encrypt_Decrypt\obj\Debug\Encrypt_Decrypt.csprojResolveAssemblyReference.cache
+c:\users\ehsan\documents\visual studio 2017\Projects\Encrypt_Decrypt\Encrypt_Decrypt\obj\Debug\Encrypt_Decrypt.Form1.resources
+c:\users\ehsan\documents\visual studio 2017\Projects\Encrypt_Decrypt\Encrypt_Decrypt\obj\Debug\Encrypt_Decrypt.Properties.Resources.resources
+c:\users\ehsan\documents\visual studio 2017\Projects\Encrypt_Decrypt\Encrypt_Decrypt\obj\Debug\Encrypt_Decrypt.csproj.GenerateResource.Cache
+c:\users\ehsan\documents\visual studio 2017\Projects\Encrypt_Decrypt\Encrypt_Decrypt\obj\Debug\Encrypt_Decrypt.exe
+c:\users\ehsan\documents\visual studio 2017\Projects\Encrypt_Decrypt\Encrypt_Decrypt\obj\Debug\Encrypt_Decrypt.pdb
