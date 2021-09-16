@@ -4,7 +4,7 @@ For example, the app will convert 'B' to 'C' if the jump is 1 and 'B' to 'G' if 
 Also we can decrypt a string by a desired jump. 
 
 ## How does it work?
-Some examples are as follow: <br/><br/>
+Some examples are as follow:
 
 #### Hello
 ![1](https://user-images.githubusercontent.com/30634010/133574894-821f8981-2077-4a3b-9b22-4b27d7d79ce9.png)<br/><br/>
